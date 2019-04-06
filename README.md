@@ -1,4 +1,4 @@
-# Transportation-Protocol-HyperLedger
+# HyperLedger Resources to Get Started
 
 HyperLedger Channel brought to you by:
 
