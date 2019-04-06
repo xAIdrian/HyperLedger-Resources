@@ -1,6 +1,12 @@
 # Transportation-Protocol-HyperLedger
 
+HyperLedger Channel brought to you by:
+
 ![Altoros_Logo_color_white_bg](https://user-images.githubusercontent.com/7444521/55673044-4dab9400-5857-11e9-992a-84e22521e05d.jpg)
+
+HyperLedger is a permissioned blockchain that is hosted by the Linux Foundation and has since been adopted by enterprise to ensure the security and immutability of their data.
+
+Hyperledger Fabric is a platform for distributed ledger solutions underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility, and scalability. It is designed to support pluggable implementations of different components and accommodate the complexity and intricacies that exist across the economic ecosystem.
 
 
 ### Hyperledger direct resources	
